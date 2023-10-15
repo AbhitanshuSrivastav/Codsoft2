@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">windowNotification</string>
+    <string name="my_memes">My Memes</string>
+    <string name="mymemes">MYmemes</string>
+    <string name="my_notification">My notification</string>
+    <string name="notification">Notification</string>
+    <string name="notification1">Notification</string>
+</resources>
